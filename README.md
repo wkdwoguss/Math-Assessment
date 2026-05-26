@@ -1,5 +1,5 @@
 # Mathematics-Assessment
-KSHS common mathematics 1 mathematics assessment by wkdwoguss
+KSHS common mathematics 1 mathematics assessment by 장재현
 
 
 To play poker with AI, download both of the file and move them in the same folder.
