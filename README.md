@@ -8,5 +8,7 @@ Then run the file 'Poker.py', you will be able to play poker with AI!
 
 
 Copyright 2025 장재현. All rights reserved.
-Use of this work is not permitted without prior written permission.
+
+This work may be used without prior authorization from the copyright holder for non-commercial purposes only, provided that proper attribution is given.
+
 contact : [gyulwow@icloud.com]
